@@ -1,0 +1,994 @@
+Theme: Australia
+
+Kangaroo
+Koala
+Outback
+Sydney
+Great Barrier Reef
+Didgeridoo
+Boomerang
+Uluru
+Vegemite
+Gold Coast
+Tasmanian Devil
+Eucalyptus
+Aboriginal
+Platypus
+Coral Sea
+
+
+Theme: United States
+
+Freedom
+Flag
+Constitution
+Washington
+Democracy
+Eagle
+New York
+California
+Rockies
+Independence
+National Parks
+Baseball
+Thanksgiving
+Route 66
+Liberty
+
+Theme: Canada
+
+Maple Leaf
+Quebec
+Niagara Falls
+Mountie
+Maple Syrup
+Poutine
+Toronto
+Ottawa
+Rockies
+Igloo
+Tundra
+Hockey
+Loonie
+Aurora Borealis
+Voyageurs
+
+Theme: Mexico
+
+Tacos
+Chiles
+Mariachi
+Mayan
+Aztec
+Sombrero
+Cancun
+Guacamole
+Fiesta
+Tequila
+Cactus
+Frida Kahlo
+Dia de los Muertos
+Chichen Itza
+Baja California
+
+Theme: Brazil
+
+Carnival
+Amazon
+Samba
+Rio de Janeiro
+Caipirinha
+Soccer
+Pantanal
+Copacabana
+Bossa Nova
+Iguazu Falls
+Capoeira
+Christ the Redeemer
+Favela
+Açaí
+Tropical
+
+Theme: Argentina
+
+Tango
+Pampas
+Buenos Aires
+Malbec
+Patagonia
+Empanada
+Gaucho
+Andean
+Mate
+Iguazu Falls
+Football
+Bariloche
+Evita
+La Boca
+Tierra del Fuego
+
+Theme: Costa Rica
+
+Pura Vida
+Rainforest
+Arenal
+Sloth
+Coffee
+Volcano
+Tortuguero
+Ticos
+Wildlife
+Beach
+Cloud Forest
+Manuel Antonio
+Biodiversity
+Guanacaste
+Surfing
+
+Theme: El Salvador
+
+Pupusas
+Volcanoes
+Surfing
+San Salvador
+Coffee
+Mayan
+La Libertad
+Joya de Cerén
+Barra de Santiago
+Ruins
+Cumbia
+Beaches
+National Parks
+Ahuachapan
+Tierra de Volcanes
+
+
+Theme: Panama
+
+Canal
+Panama City
+Tropics
+Embera
+Cumbia
+Bocas del Toro
+Coffee
+Biodiversity
+Sancocho
+Casco Viejo
+Darien
+Indigenous
+Straw Hat
+Mangroves
+Azuero
+
+
+Theme: Colombia
+
+Coffee
+Cartagena
+Andes
+Salsa
+Emeralds
+Amazon
+Medellín
+Arepas
+Barranquilla
+Biodiversity
+Cumbia
+Tayrona
+Bogotá
+Salt Cathedral
+Tejo
+
+Theme: Peru
+
+Machu Picchu
+Ceviche
+Andes
+Llama
+Amazon
+Inca
+Nazca Lines
+Cusco
+Quinoa
+Sacred Valley
+Pisco
+Sacsayhuamán
+Inti Raymi
+Lake Titicaca
+Peruvian Culture
+
+Theme: Iceland
+
+Volcano
+Geyser
+Glacier
+Reykjavik
+Northern Lights
+Hot Springs
+Puffin
+Lava
+Blue Lagoon
+Fjord
+Viking
+Waterfall
+Silfra
+Aurora Borealis
+Þingvellir
+
+Theme: Ireland
+
+Shamrock
+Leprechaun
+Celtic
+Dublin
+Cliffs of Moher
+Gaelic
+Blarney Stone
+Guinness
+Folklore
+Emerald Isle
+Famine
+Traditional Music
+Castle
+St. Patrick
+Wild Atlantic Way
+
+Theme: Scotland
+
+Highlands
+Bagpipes
+Loch Ness
+Kilts
+Tartan
+Edinburgh
+Whisky
+Clan
+Scottish Borders
+Castles
+Haggis
+Ceilidh
+Thistle
+Braveheart
+Isle of Skye
+
+Theme: England
+
+London
+Big Ben
+Buckingham Palace
+Tea
+Shakespeare
+Stonehenge
+Cricket
+Roses
+Fish and Chips
+Yorkshire
+Tudor
+Cotswolds
+Abbey
+Double-Decker
+The Beatles
+
+
+Theme: Spain
+
+Paella
+Flamenco
+Barcelona
+Sangria
+Gaudí
+Tapas
+Siesta
+Alhambra
+Bullfighting
+Madrid
+Costa Brava
+Fiesta
+Sagrada Familia
+Basque
+Olé
+
+Theme: France
+
+Eiffel Tower
+Baguette
+Champagne
+Louvre
+Provence
+Croissant
+Versailles
+Riviera
+Fashion
+Mont Saint-Michel
+French Cuisine
+Seine
+Normandy
+Château
+Art
+Theme: Italy
+
+Pasta
+Pizza
+Rome
+Venice
+Tuscany
+Gelato
+Colosseum
+Renaissance
+Florence
+Amalfi Coast
+Gondola
+Vatican
+Chianti
+Opera
+Leaning Tower
+
+Theme: Russia
+
+Kremlin
+Siberia
+Vodka
+Matryoshka
+Tsar
+Red Square
+Ballet
+Tundra
+St. Petersburg
+Volga
+Caviar
+Winter
+Trans-Siberian
+Orthodox
+Fabergé
+
+Theme: China
+
+Great Wall
+Panda
+Beijing
+Dumplings
+Kung Fu
+Yangtze
+Confucius
+Silk Road
+Terracotta
+Calligraphy
+Lantern Festival
+Tea
+Forbidden City
+Jade
+Zodiac
+
+Theme: Netherlands
+
+Tulips
+Windmill
+Amsterdam
+Canal
+Dutch Cheese
+Van Gogh
+Klompen
+Rijksmuseum
+Rembrandt
+Stroopwafels
+Dikes
+Bicycle
+Clogs
+King's Day
+Zaanse Schans
+
+Theme: Germany
+
+Oktoberfest
+Bratwurst
+Berlin
+Autobahn
+Neuschwanstein
+Sauerkraut
+Rhine River
+Bundesliga
+Cuckoo Clock
+Black Forest
+Bavarian
+Oktoberfest
+Schloss
+Currywurst
+Beer
+
+
+Theme: Poland
+
+Warsaw
+Kraków
+Pierogi
+Żurek
+Bialystok
+Vistula
+Wawel
+Mazury
+Solidarity
+Chopin
+Gdańsk
+Kielbasa
+Tatra Mountains
+Polish Culture
+Baltic Sea
+
+Theme: Switzerland
+
+Alps
+Fondue
+Zurich
+Geneva
+Chocolate
+Cow
+Watches
+Bern
+Neutrality
+Lausanne
+Jungfrau
+Lake Geneva
+Raclette
+Skiing
+Matterhorn
+
+Theme: Czechia
+
+Prague  
+Pilsner  
+Castle  
+Charles Bridge  
+Bohemia  
+Škoda  
+Beer  
+Astronomical Clock  
+Moravia  
+Týn Church  
+Karlovy Vary  
+Folklore  
+Czech Language  
+Wooden Toys  
+Cesky Krumlov  
+
+Theme: Slovenia
+
+Ljubljana
+Lake Bled
+Triglav
+Caves
+Wine
+Castle
+Julian Alps
+Škocjan
+Piran
+Tamara
+Gorenjska
+Honey
+Maribor
+Postojna
+Festivals
+
+Theme: Croatia
+
+Dubrovnik
+Split
+Plitvice
+Adriatic
+Islands
+Rijeka
+Dalmatia
+Peka
+Truffle
+Korčula
+Zagreb
+National Parks
+Sea
+Olive Oil
+Hvar
+
+Theme: Hungary
+
+Budapest
+Goulash
+Thermal Baths
+Danube
+Paprika
+Hortobágy
+Parliament
+Tokaji
+Folk Dance
+Sziget Festival
+Chain Bridge
+Lake Balaton
+Ruin Bars
+Puszta
+Főzelék
+
+Theme: Serbia
+
+Belgrade
+Cevapi
+Danube
+Rakija
+Slava
+Novi Sad
+Fortress
+Kopaonik
+Vojvodina
+Traditional Music
+Tesla
+Ajvar
+Tara National Park
+St. Sava
+Serbian Orthodox
+
+Theme: Greece
+
+Acropolis
+Santorini
+Mythology
+Olive Oil
+Tzatziki
+Athens
+Delphi
+Ouzo
+Islands
+Moussaka
+Spartan
+Parthenon
+Aegean Sea
+Ruins
+Hellenic
+
+Theme: Turkey
+
+Istanbul
+Cappadocia
+Kebabs
+Bosporus
+Hagia Sophia
+Pamukkale
+Turkish Delight
+Bazaar
+Anatolia
+Ephesus
+Whirling Dervish
+Mediterranean
+Bosphorus
+Istanbul
+Tulips
+
+Theme: Sweden
+
+Stockholm
+Fika
+IKEA
+Midsummer
+Lapland
+Viking
+ABBA
+Meatballs
+Archipelago
+Northern Lights
+Dala Horse
+Herring
+Sausage
+Gamla Stan
+Kanelbullar
+
+Theme: Austria
+
+Vienna
+Alps
+Mozart
+Schnitzel
+Salzburg
+Danube
+Sacher Torte
+Classical Music
+Graz
+Habsburg
+Vienna Woods
+Melange
+Innsbruck
+Tyrol
+Christmas Markets
+
+Theme: Egypt
+
+Pyramids
+Nile
+Sphinx
+Hieroglyphics
+Cairo
+Pharaoh
+Luxor
+Tombs
+Ancient
+Alexandria
+Papyrus
+Temples
+Oasis
+Camel
+Cleopatra
+
+Theme: Morocco
+
+Marrakech
+Sahara
+Couscous
+Kasbah
+Souk
+Medina
+Atlas Mountains
+Berber
+Mint Tea
+Fes
+Riads
+Lanterns
+Aït Benhaddou
+Spice Market
+Djemaa el-Fna
+
+Theme: Mali
+
+Timbuktu
+Niger River
+Dogon
+Bamako
+Bandiagara
+Mossi
+Malian Music
+Sahara
+Mudbrick
+Tuareg
+Mali Empire
+Traditional Crafts
+Festivals
+Mali Cuisine
+Adobe Architecture
+
+Theme: South Africa
+
+Cape Town
+Table Mountain
+Safari
+Johannesburg
+Kruger Park
+Wine
+Ubuntu
+Apartheid
+Zulu
+Blyde River Canyon
+Robben Island
+Big Five
+Sotho
+Bo-Kaap
+Coastal Towns
+
+Theme: Madagascar
+
+Lemurs
+Baobab
+Rainforest
+Antananarivo
+Vanilla
+Tsingy
+Biodiversity
+Chameleon
+Kirindy
+Madagascar Pochard
+Spiny Forest
+Malagasy
+Avenue of the Baobabs
+Isalo National Park
+Coral Reef
+
+Theme: Somalia
+
+Mogadishu
+Puntland
+Camel
+Somali Cuisine
+Djibouti
+Berbera
+Traditional Music
+Hargeisa
+Somali Pirate
+Gedo
+Somaliland
+Dhows
+Shabelle River
+Kismayo
+African Horn
+
+Theme: Ethiopia
+
+Addis Ababa
+Coffee
+Injera
+Amharic
+Lalibela
+Rift Valley
+Axum
+Simien Mountains
+Tigray
+Ethiopian Orthodox
+Harar
+Enkulal Firfir
+UNESCO
+Gonder
+Culture
+
+
+Theme: Saudi Arabia
+
+Riyadh
+Mecca
+Medina
+Desert
+Oil
+Arabian Peninsula
+Hijaz
+Bedouin
+Kaaba
+Palm Trees
+Red Sea
+Traditional Dishes
+Al-Ula
+Jeddah
+Saudi Vision 2030
+
+Theme: Israel
+
+Jerusalem
+Tel Aviv
+Dead Sea
+Judaism
+Holy Land
+Kibbutz
+Mediterranean
+Galilee
+Masada
+Yad Vashem
+Hummus
+Wailing Wall
+Negev Desert
+Zionism
+Biblical Sites
+
+Theme: Ukraine
+
+Kyiv
+Chernobyl
+Borscht
+Lviv
+Dnipro
+Sunflowers
+Carpathians
+Ukrainian Language
+Independence
+Holodomor
+Zaporizhzhia
+Folk Music
+Odesa
+Pysanky
+Eastern Europe
+
+Theme: India
+
+Taj Mahal
+Spices
+Bollywood
+Curry
+Yoga
+Ganges
+Diwali
+Punjab
+Mumbai
+Ayurveda
+Sari
+Masala
+Hinduism
+Rajasthan
+Monsoon
+
+Theme: Pakistan
+
+Islamabad
+Lahore
+Karachi
+Biryani
+Indus River
+K2
+Mohenjo-Daro
+Sufism
+Textile
+Punjab
+Hunza Valley
+Cricket
+Quaid-e-Azam
+Forts
+Traditional Music
+
+Theme: Mongolia
+
+Ulaanbaatar
+Ger
+Gobi Desert
+Nomadic
+Mongolian Horse
+Khans
+Naadam
+Yak
+Steppe
+Tsetse Fly
+Blue Sky
+Throat Singing
+Great Wall
+Eagle Hunting
+Tsagaan Sar
+
+Theme: Nepal
+
+Kathmandu
+Himalayas
+Mount Everest
+Sherpa
+Pagoda
+Trekking
+Gurkha
+Buddhism
+Annapurna
+Pashupatinath
+Durbar Square
+Langtang
+Thamel
+Chitwan
+Rice Pudding
+
+Theme: Thailand
+
+Bangkok
+Phuket
+Pad Thai
+Temples
+Elephant
+Chiang Mai
+Thai Curry
+Floating Markets
+Songkran
+Beach
+Khao San Road
+Muay Thai
+Rice Paddy
+Siam
+Tuk-Tuk
+
+Theme: Vietnam
+
+Hanoi
+Pho
+Halong Bay
+Banh Mi
+Mekong Delta
+Saigon
+Rice Fields
+Cu Chi Tunnels
+Lanterns
+Ao Dai
+Traditional Music
+Imperial City
+Phong Nha
+Street Food
+Tet Festival
+
+Theme: South Korea
+
+Seoul
+Kimchi
+K-Pop
+Hanbok
+BTS
+Gyeongbokgung
+Taekwondo
+Jeju Island
+Soju
+Traditional Tea
+DMZ
+Bibimbap
+N Seoul Tower
+Korean BBQ
+Hallyu
+
+Theme: North Korea
+
+Pyongyang
+Kim Il-sung
+Juche
+Korean War
+DMZ
+Mass Games
+Mansudae
+Arirang Festival
+State Media
+Mount Paektu
+Kim Jong-un
+Nuclear Program
+Hermit Kingdom
+Socialist
+Taedong River
+
+Theme: Malaysia
+
+Kuala Lumpur
+Petronas Towers
+Nasi Lemak
+Borneo
+Malay Culture
+Penang
+Rainforest
+Batik
+Langkawi
+Taman Negara
+Tea Plantations
+Sabah
+Sarawak
+Islamic Heritage
+Roti Canai
+
+Theme: Philippines
+
+Manila
+Islands
+Jeepney
+Adobo
+Boracay
+Palawan
+Rice Terraces
+Taal Volcano
+Fiesta
+Barong Tagalog
+Scuba Diving
+Chocolate Hills
+Vigan
+Traditional Music
+Mango
+
+Theme: Japan
+
+Tokyo
+Sushi
+Mount Fuji
+Kimono
+Cherry Blossom
+Shinkansen
+Sumo
+Kyoto
+Anime
+Samurai
+Tempura
+Tsukimi
+Onsen
+Shinto
+Zen Garden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+Theme: Cute Animals
+Size: 10 x 10
+Mask: heart3.jpg
+Word List:
+DOG
+CAT
+ELEPHANT
+
+Theme: Movies
+Size: 20 x 20
+Mask: heart3.jpg
+Word List:
+TOMB RAIDER
+THE PLATFORM
+
+Theme: People
+Size: 30 x 30
+Word List:
+WASHINGTON
+JEFFERSON
+ADAMS

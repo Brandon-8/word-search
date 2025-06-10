@@ -1,0 +1,76 @@
+Welcome to the Word Search Generator!
+This file will help you go over the basics to create a word search puzzle
+
+You cannot create a word search directly in the program (will do this later), rather you need to import a file to start
+
+File Tab:
+Click on 'File' -> 'New' to create a new instance of the program
+
+Click on 'File' -> 'Open':
+There are two folders
+'saved': to open previously created puzzles
+'word_lists': contains info needed to create a new puzzle
+	- Note: do not try to use prompt.txt or countries.txt, errors will occur
+Note: These files contain multiple puzzles per file
+
+
+Click on 'File' -> 'Save': to save the current puzzles to txt (please save to 'saved' folder)
+
+Click 'File' -> 'Export as PDF' to export the current puzzle as a pdf
+	- please save in the 'pdfs' folder, there are some examples there
+	- Note: This only saves one puzzle at a time, even in multiple are loaded into the program
+		Batch export will come later
+
+'File' -> 'Exit' to quit the program
+
+Edit Tab:
+'Edit' -> 'Word Search' -> 'Generate All': Generate all puzzles
+'Edit' -> 'Word Search' -> 'Open Manager': Not implemented
+
+Options Tab:
+'Options' -> 'Word Search': Can Currently only change the highlight colors
+
+The Sudoku and Crossword Tabs are not implemented
+
+Options:
+Appears to the left of the screen
+Use '<<' to navigate to the previous puzzle
+Use '>>' to navigate to the next puzzle
+Use the dropdown menu between the Nav buttons to select a specific puzzle
+
+Use the 'Rows' and 'Cols' fields and press the 'Resize' Button to create a new grid of the desired size
+	- Note: size must be between (5,5) and (20,20)
+	- Note: resizing will completely clear the grid
+
+Press the 'Generate Word Search' Button to automatically place any remaining words on the grid and fill in the rest of the empty spaces
+	- Note: This may not completely work depending on the size of the grid and the number of words in the list
+		You can hit 'Clear Grid' and try again if it doesn't work, you will see blank spots on the grid if it fails
+
+Press the 'Clear Grid' Button to remove all letters from the grid
+
+The 'Show Solutions' checkbox will show you which words are placed on the grid and their locations
+
+
+Puzzle Grid:
+Change the Title of the Puzzle by clicking on the title
+
+The center of the screen contains the puzzle grid space, unfilled spots on the grid are marked with '-'
+To place a word on the grid:
+(1) select a word
+(2) click on the spot you want to place the first letter
+(3) Hover you mouse in the direction you want to place the word, a preview will show you what the placement looks like
+(4) Click again to confirm the placement
+
+Word List:
+To the Right of the puzzle grid is the word list
+Click on a word to select it
+Once selected it will be highlighted and if it is on the grid, the location will also be highlighted
+A '-' button and 'place' / 'Unplace' will appear next to the selected word
+
+'-' Button will remove the word from the word list
+'Place' will allow you to click on the puzzle grid to place the word. Note: You can do this simply by selecting the word, the 'Place' button is not stricly needed
+'Unplace' will remove the word from the grid but will keep the word in the list
+
+The 'Add Word' Button will add a new word from the input field to the left to the word list
+
+

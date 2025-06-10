@@ -1,0 +1,8 @@
+List of Current Keyboard Shortcuts
+
+Ctrl-o:       Open File
+Ctrl-Shift-s: Save as
+Ctrl-s:       Save
+Ctrl-q:       Exit Program
+Ctrl-g:	      Generate Current Word Search
+Ctrl-Shift-g: Generate all Word Searches in the File 

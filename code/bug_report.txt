@@ -1,0 +1,7 @@
+Report any Bugs Here or any features:
+
+Error Popup message when Fail to Generate
+
+Popup Message on Generate All
+
+Solutions in same file prints extra blank page with Solution Heading but no puzzle
